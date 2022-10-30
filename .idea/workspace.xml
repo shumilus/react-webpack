@@ -8,12 +8,7 @@
       <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../react-webpack-ts-config" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../test-project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack.config.dev.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack.config.prod.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.prod.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.prod.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +78,7 @@
       <workItem from="1667138997358" duration="4590000" />
       <workItem from="1667143603783" duration="4400000" />
       <workItem from="1667148676084" duration="842000" />
-      <workItem from="1667149524592" duration="106000" />
+      <workItem from="1667149524592" duration="416000" />
     </task>
     <servers />
   </component>
