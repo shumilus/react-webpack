@@ -8,13 +8,12 @@
       <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../react-webpack-ts-config" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../test-project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.config.dev.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.config.prod.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +61,7 @@
     "node.js.selected.package.standard": "",
     "nodejs_package_manager_path": "npm",
     "prettierjs.PrettierConfiguration.Package": "C:\\Users\\Andrii_Shumila\\projects\\react\\webpack-project-react\\node_modules\\prettier",
-    "settings.editor.selected.configurable": "settings.javascript.linters.eslint",
+    "settings.editor.selected.configurable": "preferences.sourceCode.JavaScript",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -82,7 +81,9 @@
       <workItem from="1666627702356" duration="735000" />
       <workItem from="1666628446516" duration="3860000" />
       <workItem from="1667138997358" duration="4590000" />
-      <workItem from="1667143603783" duration="408000" />
+      <workItem from="1667143603783" duration="4400000" />
+      <workItem from="1667148676084" duration="842000" />
+      <workItem from="1667149524592" duration="106000" />
     </task>
     <servers />
   </component>
