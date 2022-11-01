@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7645352e-53b5-4ce9-a6ed-3305a2bb4bc1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/react.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../react-webpack-ts-config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test-project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.dev.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webpack.config.prod.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.prod.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +35,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
   <component name="ProjectId" id="2GaXWd6iD6XzLMtCvSoTjj6b6YZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -49,7 +52,7 @@
     "WebServerToolWindowFactoryState": "false",
     "javascript.nodejs.core.library.configured.version": "16.15.0",
     "javascript.nodejs.core.library.typings.version": "16.18.0",
-    "last_opened_file_path": "C:/Users/Andrii_Shumila/projects/react/webpack-project-react",
+    "last_opened_file_path": "C:/Users/Andrii_Shumila/projects/KI-Vista-Ui",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -79,6 +82,7 @@
       <workItem from="1667143603783" duration="4400000" />
       <workItem from="1667148676084" duration="842000" />
       <workItem from="1667149524592" duration="416000" />
+      <workItem from="1667320941128" duration="351000" />
     </task>
     <servers />
   </component>
